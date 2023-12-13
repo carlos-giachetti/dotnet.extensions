@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet.extensions.lib", "dotnet.extensions.lib\dotnet.extensions.lib.csproj", "{1E8BB447-D1D4-41C1-B4E7-5E7D595465B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet.extensions.tests", "dotnet.extensions.tests\dotnet.extensions.tests.csproj", "{4E1CFA8C-2554-4909-9A4D-1FC035229E83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E8BB447-D1D4-41C1-B4E7-5E7D595465B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E8BB447-D1D4-41C1-B4E7-5E7D595465B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E8BB447-D1D4-41C1-B4E7-5E7D595465B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E8BB447-D1D4-41C1-B4E7-5E7D595465B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E1CFA8C-2554-4909-9A4D-1FC035229E83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E1CFA8C-2554-4909-9A4D-1FC035229E83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E1CFA8C-2554-4909-9A4D-1FC035229E83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E1CFA8C-2554-4909-9A4D-1FC035229E83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDE34CEA-FC1B-4625-923F-11F19179BE5B}
+	EndGlobalSection
+EndGlobal
